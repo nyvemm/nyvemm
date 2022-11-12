@@ -48,7 +48,7 @@ Here you'll find a couple of projects I've been working on. I'm a software devel
 ### Contact Me
 
 <p align="left" dir="auto">
-  <a href="https://www.linkedin.com/in/nyvemm/">
+  <a href="https://www.linkedin.com/in/joaovictorsawada/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
   </a>
   <a href="mailto:joaovictorsawada@gmail.com">
