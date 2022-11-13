@@ -1,6 +1,6 @@
 ### Hi there 🦜🦜🦜
 
-Here you'll find a couple of projects I've been working on. I'm a software developer with a passion for web development. I'm always looking to learn new things and improve my skills. I'm currently working as a fullstack developer at [Maxxer](https://app.maxxer.com/).
+Here you'll find a couple of projects I've been working on. I'm a software developer with a passion for web development. I'm always looking to learn new things and improve my skills. I'm currently working as a fullstack developer at [Maxxer](https://maxxer.com/).
 
 [![GitHub followers](https://img.shields.io/github/followers/nyvemm.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nyvemm?tab=followers)
 ![Profile views](https://gpvc.arturio.dev/nyvemm)
