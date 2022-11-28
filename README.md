@@ -56,13 +56,3 @@ Here you'll find a couple of projects I've been working on. I'm a software devel
   </a>
 
 ---
-
-### Fun Fact 
-
-I enjoy playing games in my free time. Add me on [Steam](https://steamcommunity.com/id/nyvemm/) or [PSN](https://psnprofiles.com/nyvemm) and let's play together!
-
-
-<p align="left" dir="auto>
-<a href="https://psnprofiles.com/nyvemm"><img src="https://card.psnprofiles.com/1/nyvemm.png" border="0"></a>
-    <a href="https://www.steamidfinder.com/lookup/76561198872092556/"><img src="https://www.steamidfinder.com/signature/76561198872092556.png" alt="camarada ching chong Steam Signature - SteamId for nyvemm"/></a>
-</p>
