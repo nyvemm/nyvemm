@@ -2,12 +2,6 @@
 
 Here you'll find a couple of projects I've been working on. I'm a software developer with a passion for web development. I'm always looking to learn new things and improve my skills.
 
-[![GitHub followers](https://img.shields.io/github/followers/nyvemm.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nyvemm?tab=followers)
-![Profile views](https://gpvc.arturio.dev/nyvemm)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:joaovictorsawada@gmail.com)
-
-
-
 ---
 
  <div>
